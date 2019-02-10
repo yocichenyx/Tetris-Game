@@ -7,5 +7,6 @@ This is a simple project which is based on MFC and named Tetris.
 ![游戏界面](https://github.com/yocichenyx/Tetris-Game/blob/master/界面.png)
 
 >游戏过程
-[![Watch the video](https://github.com/yocichenyx/Tetris-Game/blob/master/Tetris.mp4)
+
+[![Watch the video](https://github.com/yocichenyx/Tetris-Game/blob/master/GIF.gif)
 
