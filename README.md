@@ -1,5 +1,5 @@
 # Tetris-Game
-This is a simple project which is based on MFC and named Tetris.
+This is a simple project which is based on MFC named Tetris.
 基于MFC的经典俄罗斯方块游戏，采用C++面向对象方法结合简单图形学知识开发。
 
 ## 游戏界面 Game UI
